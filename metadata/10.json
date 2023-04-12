@@ -1,5 +1,5 @@
 {
-    "name": "The Lonesome Cactus #1",
+    "name": "The Lonesome Cactus #10",
     "description": "Lonely cactus from somewhere",
     "image": "ipfs://QmQ4XD2qVZVBiyCjmi5htxnpz1dXBUzU2jhCvs3Xu7666t",
     "attributes": [
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "mouth",
-            "value": "normal"
+            "value": "stick out tongue"
         }
     ]
 }
