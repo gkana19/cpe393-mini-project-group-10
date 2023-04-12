@@ -1941,7 +1941,7 @@ contract LoneCac is ERC721A {
     /**
      * @dev Constructor function
      */
-    constructor() ERC721A("The Lonesome Cactus", "LOCA") {
+    constructor() ERC721A("The Lonesome Cactus NFT", "LOCA") {
         owner = msg.sender;
     }
 
