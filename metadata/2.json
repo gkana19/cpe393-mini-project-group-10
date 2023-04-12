@@ -1,0 +1,23 @@
+{
+    "name": "The Lonesome Cactus #1",
+    "description": "Lonely cactus from somewhere",
+    "image": "ipfs://QmQ4XD2qVZVBiyCjmi5htxnpz1dXBUzU2jhCvs3Xu7666t",
+    "attributes": [
+        {
+            "trait_type": "body",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "eye",
+            "value": "normal"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "normal"
+        }
+    ]
+}
